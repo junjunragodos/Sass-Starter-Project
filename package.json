@@ -1,0 +1,16 @@
+{
+  "name": "sass-starter-project",
+  "version": "1.0.0",
+  "description": "Sass Starter Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jun-Jun Ragodos",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
